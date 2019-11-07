@@ -13,4 +13,4 @@ Here's my  [Portfolio Website](https://blujconcepts.net/) which will also soon g
 ## Plan
 
 
-I will outline and update this section on a month by month basis for the time being I am solely focused on my iOS Development course!
+I will outline and update this section on a month by month basis for the time being I am solely focused on my iOS Development course for the Month of November 2019!
