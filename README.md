@@ -6,7 +6,7 @@ My goal is to become a Junior iOS Developer and re-gain my skill set as a Front 
 
 ## Portfolio Website
 
-Here's my  [Portfolio Website](https://blujconcepts.net/) which will also soon get an update
+Here's my  [Portfolio Website](https://blujconcepts.net/) which will also soon get an update.
 
 
 
@@ -14,3 +14,9 @@ Here's my  [Portfolio Website](https://blujconcepts.net/) which will also soon g
 
 
 I will outline and update this section on a month by month basis for the time being I am solely focused on my iOS Development course for the Month of November 2019!
+
+Date: December 23rd 2019 :: Section 13: Networking, JSON Parsing, APIs and Core Location
+
+Currently still working on learning about iOS Development but focusing on JSON, Networking, and dealing with API's. I am on Section 13 currently and working to take my time to under stand the code markup. Leaning on reading documentation about delegates, extensions, and working on understanding parsing Open Weather API data. 
+
+The goal to start 2020 will be to start working with Firebase which will get me to the aspect that I've been needing which is database storage. Then next will be Realm
